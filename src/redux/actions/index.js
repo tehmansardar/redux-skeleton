@@ -1,4 +1,5 @@
 const ACTIONS = {
   CHANGE_NAME: "CHANGE_NAME",
+  FETCH_PRODUCTS: "FETCH_PRODUCTS",
 };
 export default ACTIONS;
